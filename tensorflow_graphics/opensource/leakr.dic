@@ -1,0 +1,43 @@
+#Copyright 2019 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#    https://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+confidential;1;confidentialit,confidentiality
+dogfood;1;
+fishfood;1;
+catfood;1;
+teamfood;1;
+droidfood;1;
+//go/;1;
+//sites/;1;
+a/google.com;1;
+corp.google.com;1;
+.googleplex.com;1;
+sandbox.;1;wallet-web.sandbox.,sandbox.google.com/checkout, sandbox.,paymentssandbox,colab.sandbox.google.com
+suck;1;suckle
+fuck;1;6FUcky,sfuck
+stupid;1;astupidi
+todo(;1;HarvestTodo(
+todo:;1;
+caution:;1;
+fixme:;1;
+fixme(;1;
+internal only;2;
+internal_only;2;
+hack;1;shack,thack,whack,hacke,hacka,hacku,hackn
+backdoor;2;
+STOPSHIP;2;
+ridiculous;1;
+notasecret;1;
+@google.com;WARNING;noreply@google.com,sofien@google.com,tf-graphics-contact@google.com,julienvalentin@google.com,tf-graphics-eng@google.com
+$RE:chmod [0-9]?777;3;chmod (0)777
+blaze;WARNING;
